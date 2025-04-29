@@ -1,5 +1,6 @@
 # Ex.No:1a  			Study of Socket Programming
-
+# NAME : MOHAMED HAFEEZ
+# REG No : 212224040193
 ## Aim: 
 To perform a study on Socket Programming
 ## Introduction:
